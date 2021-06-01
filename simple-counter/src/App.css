@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+div {
+  margin-top: 5rem;
+}
+button {
+  border-radius: 8px;
+  border: none;
+  background-color: #1084b9;
+  color: #fff;
+  padding: 10px;
+  margin: 2px;
+  cursor: pointer;
+}
+h1 {
+  color: brown;
+}
